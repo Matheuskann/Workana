@@ -1,5 +1,6 @@
 # Workana
 Análise de dados de Instagram e TikTok no Google Sheets. Inclui limpeza de dados, tabelas dinâmicas, cálculo de taxa de engajamento, crescimento de seguidores e dashboard com insights sobre melhores dias para postar e formatos que mais performam. Feito com ajuda de IA.
+Link dos dados analisados: https://docs.google.com/spreadsheets/d/1nb0rBONaRzG1rSnAcRO4DsuMdU4QiTPrjWFbsegXohY/edit?usp=sharing
 
 
 # 📊 Análise de Performance — Instagram e TikTok
